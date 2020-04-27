@@ -1,0 +1,12 @@
+@font-face {
+	font-family: Lekton;
+	src: url(Lekton-Regular.woff);
+}
+
+body {
+    font-family: Lekton, sans-serif;
+}
+
+a {
+	color: #b784a7;
+}
